@@ -1,0 +1,4 @@
+zz_tfod_2	_gcollab		:object&detection&tensorflow&2.0&google,tfod&2.0&google,2.0&object&detection&google
+zz_tfod_2			:object&detection&tensorflow&2.0,tfod&2.0,2.0&object&detection
+zz_setup_env		:python&environment
+zz_setup_clone		: setup&clone,install&requirements

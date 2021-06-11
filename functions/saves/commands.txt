@@ -1,0 +1,9 @@
+init_start		: initialise
+start_app		: open,start
+close_app	: close,quit
+yes		: yes,confirm,sure,of course,affirmative
+no		: no,don't
+cancel		: cancel,revert,stop
+specific		: start&specific,specific&project,project&specific,begin&project,new&project
+setup_py_env	: python&environment
+setup_clone	: setup&clone,install&requirements

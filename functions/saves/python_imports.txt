@@ -1,0 +1,8 @@
+django		:pip install django		:
+keyboard		:pip install keyboard		:import keyboard
+pyautogui		:pip install pyautogui	:import pyautogui
+speech_recognition	:pip install SpeechRecognition	:import speech_recognition as sr
+win32		:pip install pywin32		:import win32api, win32con
+django_REST_API	:pip install djangorestframework:
+scikit_learn	:pip install scikit-learn	:import os&from sklearn.feature_extraction.text import TfidfVectorizer&from sklearn.metrics.pairwise import cosine_similarity
+tensorflow	:pip install tensorflow	:

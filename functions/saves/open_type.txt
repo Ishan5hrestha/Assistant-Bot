@@ -1,0 +1,9 @@
+notepad,wordpad,note	:run :notepad
+word,ms&word		:run :winword
+command,cmd		:run :cmd
+task&manager,program&manager:run:taskmgr
+blender			:start:blender
+teams,microsoft&teams,team	:start:teams
+telegram			:start:telegram
+lightshot			:start:lightshot
+epic,epic&games		:start:epic

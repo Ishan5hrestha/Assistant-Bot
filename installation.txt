@@ -1,0 +1,7 @@
+speechrecognition
+pyaudio>=0.2.11
+keyboard
+pyautogui
+pywin32
+pillow
+wheel
