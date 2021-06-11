@@ -1,7 +1,7 @@
 # Assistant-Bot
 Voice commanded assistant bot that automates various personal stuffs like project creation, packages installation, opening applications and is self writing.
 
-Press UP arrow to start talking.
+Press UP arrow to start talking.<br>
 Inside functions/saves/ you can see various commands accepted
 command.txt{
   left column is the action performed when any of the right column work is recognized.
