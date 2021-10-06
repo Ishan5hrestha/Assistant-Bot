@@ -1,4 +1,8 @@
-# Assistant-Bot
+# Assistant Bot
+I love python. It's easy, has lots of packages readily available and I can focus more on what I want to achieve rather than how to achieve.  
+Still, making new environment, remembering the names of my most frequently used module, creating files on every new project i start is time consuming, boring and ugly.  
+  
+  Hence here comes my Assistant bot. This is voice commanded as well as text based.
 Voice commanded assistant bot that automates various personal stuffs like project creation, packages installation, opening applications and is self writing.  
 
 Press UP arrow to start talking.  
