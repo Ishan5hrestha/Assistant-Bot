@@ -66,6 +66,7 @@ def startup_app():
 	#mouse driver ready
 	start("pointer");
 	#keyboard.press_and_release("tab")
+	time.sleep(4)
 	keyboard.press_and_release("tab");time.sleep(0.2)
 	keyboard.press_and_release("space")
 	time.sleep(7)

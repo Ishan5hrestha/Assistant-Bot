@@ -43,6 +43,11 @@ instant_write("cd "+val)
 instant_write("python -m venv venv")
 instant_write("venv\\scripts\\activate")
 instant_write("python.exe -m pip install --upgrade pip")
+instant_write("copy con env.bat")
+instant_write("cd /d %~dp0")
+instant_write('call cmd /k "venv\\scripts\\activate && title Environment && python earn_spin.py" ')
+press('ctrl+z')
+press('enter')
 
 if len(packages)!=0:
 	for i in packages:
