@@ -34,6 +34,6 @@ Inside functions/saves/ you can see various files:
   - mid is how to install on terminal
   - right is what to write on editor after installation completes
 - **specific_apps.txt**
-  - left is which file to open on what word of the right
+  - left is which python file to run on what word of the right
 
 ## Trailer
